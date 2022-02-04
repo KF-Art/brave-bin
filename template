@@ -9,7 +9,7 @@ hostmakedepends="tar xz"
 license="Mozilla Public License Version 2.0"
 homepage="https://brave.com"
 distfiles="https://github.com/brave/brave-browser/releases/download/v${version}/brave-browser_${version}_amd64.deb"
-checksum=50b9a8517c8f58709ec0ae053cfed25f51276ba9f468cfc4591ed99cc375ced6
+checksum=4e83e1dae8561cc47a092ef0b68b36ea256ec8a2d78b772d38ffdd1727a8b283
 nostrip=yes
 
 do_extract() {
